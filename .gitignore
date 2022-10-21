@@ -1,0 +1,9 @@
+data
+__pycache__
+venv
+.vscode
+*.db
+*.sqlite
+*.pickle
+test/
+*.hdf5
